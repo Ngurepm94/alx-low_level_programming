@@ -1,4 +1,4 @@
-#ifndef main.h
+#ifndef main
 
 char *_strcat(char *dest, char *src);
 
